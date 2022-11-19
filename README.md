@@ -1,6 +1,8 @@
 # bashscripts
 You can find my bash scripts here. Feel free to explore, use ore modificate them.
 
+------------
+
 ## Automated backup with backup_daily.sh
 
 ### Motivation
