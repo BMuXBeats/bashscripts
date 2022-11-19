@@ -6,7 +6,7 @@ You can find my bash scripts here. Feel free to explore, use ore modificate them
 ## Automated backup with backup_daily.sh
 
 ### Motivation
-I bought a second-hand *WD My Cloud Mirror Gen2* NAS .
+I bought a second-hand [WD My Cloud Mirror - Gen2](https://www.westerndigital.com/de-de/products/recertified/cloud-storage/wd-my-cloud-mirror-gen-2-recertified#RWDBWVZ0060JWT-EESN "WD My Cloud Mirror - Gen2") NAS .
 The NAS has a webinterface with rudimentary functions and it has the ability to access via ssh.
 
 The second point is what I wanted to get my data from my LINUX desktop backuped to a network share.
