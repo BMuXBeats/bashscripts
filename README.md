@@ -26,6 +26,8 @@ In addition, the NAS can be woken up via **WOL** (wake on lan).
 The script needs to be executed with sudo rights.
 It has furthermore mandatory to be marked as executable.
 
+It can be manually started with sudo ./backup_daily.sh or, much better, as a cronjob.
+
 ### Code modification issues
 The code has been tested under Manjaro Linux and it worked reliable.
 The script generates a logfile. The size of the logfile may increase infinitely at the moment.
